@@ -1,0 +1,2 @@
+pour executer le code il suffit de taper
+load 'test.rb'
