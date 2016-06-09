@@ -1,2 +1,4 @@
 pour executer le code il suffit de taper
-load 'test.rb'
+load 'test.rb' 
+ou
+load 'test2.rb'
